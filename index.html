@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cristian Farias Rubio | Data Scientist & Automation Engineer</title>
+    
+    <!-- Metadatos para SEO y redes sociales -->
+    <meta name="description" content="Portafolio de Cristian Farias Rubio, uniendo 10 años de ingeniería en automatización con la ciencia de datos para transformar operaciones complejas en sistemas inteligentes.">
+    <meta name="author" content="Cristian Farias Rubio">
+
+    <!-- Enlace a la hoja de estilos principal -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Google Fonts: Orbitron para títulos y Roboto Mono para cuerpo. Esta combinación ofrece una estética técnica y futurista sin sacrificar la legibilidad. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome para los íconos. Es una librería estándar de la industria, robusta y con una gran selección de íconos técnicos. -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" xintegrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+
+    <!-- === HEADER Y NAVEGACIÓN === -->
+    <header id="main-header">
+        <nav>
+            <div class="logo">CFR</div>
+            <ul>
+                <li><a href="#hero">01_INICIO</a></li>
+                <li><a href="#sobre-mi">02_SOBRE MÍ</a></li>
+                <li><a href="#proyectos">03_PROYECTOS</a></li>
+                <li><a href="#habilidades">04_HABILIDADES</a></li>
+                <li><a href="#contacto">05_CONTACTO</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- === SECCIÓN HERO === -->
+        <section id="hero" class="section">
+            <div id="hero-animation-container"></div>
+            <div class="hero-content">
+                <h1 class="reveal">Cristian Farias Rubio</h1>
+                <p class="reveal">
+                    <span id="typing-effect"></span><span class="cursor">_</span>
+                </p>
+            </div>
+        </section>
+
+        <!-- === SECCIÓN SOBRE MÍ === -->
+        <section id="sobre-mi" class="section">
+            <div class="container">
+                <h2 class="section-title reveal">// La Fusión de Dos Mundos</h2>
+                <p class="reveal">
+                    Con una década de experiencia optimizando procesos en el corazón de la industria, ahora aplico esa misma mentalidad de precisión y eficiencia para modelar el futuro a través de los datos. Mi objetivo es construir puentes entre la maquinaria física y la inteligencia artificial, transformando operaciones complejas en sistemas automatizados y predictivos.
+                </p>
+            </div>
+        </section>
+
+        <!-- === SECCIÓN PROYECTOS === -->
+        <section id="proyectos" class="section">
+            <div class="container">
+                <h2 class="section-title reveal">// Proyectos Clave: Del Taller al Algoritmo</h2>
+                <!-- Este contenedor ahora está vacío. JavaScript lo llenará dinámicamente. -->
+                <div class="projects-grid">
+                    <!-- Los proyectos se cargarán aquí -->
+                </div>
+            </div>
+        </section>
+
+        <!-- === SECCIÓN HABILIDADES === -->
+        <section id="habilidades" class="section">
+            <div class="container">
+                <h2 class="section-title reveal">// Arsenal Técnico</h2>
+                <div class="skills-grid">
+                    <div class="skill-category reveal">
+                        <h4><i class="fas fa-brain"></i> Ciencia de Datos</h4>
+                        <ul>
+                            <li>Python & Pandas</li>
+                            <li>Scikit-Learn</li>
+                            <li>TensorFlow & Keras</li>
+                            <li>Visualización de Datos</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category reveal">
+                        <h4><i class="fas fa-database"></i> Bases de Datos & Big Data</h4>
+                        <ul>
+                            <li>SQL (PostgreSQL, MySQL)</li>
+                            <li>NoSQL (MongoDB)</li>
+                            <li>Apache Spark</li>
+                            <li>ETL Pipelines</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category reveal">
+                        <h4><i class="fas fa-cloud"></i> Cloud & DevOps</h4>
+                        <ul>
+                            <li>AWS (S3, EC2, SageMaker)</li>
+                            <li>Docker</li>
+                            <li>Git & GitHub</li>
+                            <li>CI/CD Principles</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category reveal">
+                        <h4><i class="fas fa-cogs"></i> Automatización Industrial</h4>
+                        <ul>
+                            <li>PLC (Siemens, Allen-Bradley)</li>
+                            <li>SCADA & HMI</li>
+                            <li>Redes Industriales</li>
+                            <li>Control de Procesos</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- === SECCIÓN CONTACTO === -->
+        <section id="contacto" class="section">
+            <div class="container">
+                <h2 class="section-title reveal">// Iniciar Comunicación</h2>
+                <div class="contact-wrapper">
+                    <form id="contact-form" class="reveal">
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" required>
+                            <label for="name">Nombre</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" required>
+                            <label for="email">Email</label>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" rows="4" required></textarea>
+                            <label for="message">Mensaje</label>
+                        </div>
+                        <button type="submit" class="btn">Enviar Mensaje</button>
+                    </form>
+                    <div class="social-links reveal">
+                        <a href="#" target="_blank" aria-label="LinkedIn Profile"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" target="_blank" aria-label="GitHub Profile"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- === FOOTER === -->
+    <footer>
+        <p>&copy; 2024 Cristian Farias Rubio. Diseñado y construido con precisión.</p>
+    </footer>
+
+    <!-- === MODAL PARA PROYECTOS === -->
+    <div id="project-modal" class="modal-container">
+        <div class="modal-content">
+            <button id="close-modal" class="close-btn">&times;</button>
+            <img id="modal-img" src="" alt="Imagen del proyecto">
+            <h3 id="modal-title"></h3>
+            <p id="modal-description"></p>
+            <div class="modal-links">
+                <a id="modal-github" href="#" class="btn" target="_blank">Ver en GitHub</a>
+                <a id="modal-demo" href="#" class="btn" target="_blank">Ver Demo</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

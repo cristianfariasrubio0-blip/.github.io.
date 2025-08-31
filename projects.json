@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Optimización Predictiva de Mantenimiento",
+        "description_short": "Modelo de ML para predecir fallos en maquinaria industrial y reducir el tiempo de inactividad.",
+        "description_long": "Desarrollo de un modelo de Machine Learning para predecir fallos en maquinaria industrial basado en datos de sensores (vibración, temperatura). El sistema alerta a los equipos de mantenimiento antes de que ocurra una falla crítica, reduciendo el tiempo de inactividad en un 25% y los costos de reparación en un 15%.",
+        "image": "https://placehold.co/600x400/0A0E1A/00FFFF?text=Industrial+AI",
+        "tags": ["Python", "TensorFlow", "SCADA", "SQL"],
+        "github": "https://github.com",
+        "demo": "#"
+    },
+    {
+        "title": "Sistema de Visión Artificial para Control de Calidad",
+        "description_short": "Detección automática de defectos en líneas de producción con OpenCV y CNNs.",
+        "description_long": "Implementación de un sistema de visión por computadora para la detección automática de defectos en líneas de producción. Utilizando OpenCV y redes neuronales convolucionales (CNN), el sistema identifica imperfecciones en tiempo real con una precisión del 99.2%, superando la inspección manual.",
+        "image": "https://placehold.co/600x400/0A0E1A/00FFFF?text=Computer+Vision",
+        "tags": ["Python", "OpenCV", "PyTorch", "PLC"],
+        "github": "https://github.com",
+        "demo": "#"
+    },
+    {
+        "title": "Dashboard de KPIs en Tiempo Real",
+        "description_short": "Visualización interactiva de indicadores de producción con Dash y Plotly.",
+        "description_long": "Creación de un dashboard interactivo con Dash y Plotly para visualizar los indicadores clave de rendimiento (KPIs) de una planta de producción. Los datos se extraen de múltiples fuentes (Bases de Datos SQL, APIs de sistemas HMI) y se actualizan en tiempo real, permitiendo a la gerencia tomar decisiones basadas en datos de forma ágil.",
+        "image": "https://placehold.co/600x400/0A0E1A/00FFFF?text=Real-Time+Dashboard",
+        "tags": ["Dash", "Plotly", "Pandas", "SQL"],
+        "github": "https://github.com",
+        "demo": "#"
+    },
+    {
+        "title": "Análisis de Sentimiento de Feedback de Clientes",
+        "description_short": "Clasificación automática de miles de comentarios de clientes usando NLP.",
+        "description_long": "Aplicación de técnicas de Procesamiento de Lenguaje Natural (NLP) para analizar y clasificar automáticamente el feedback de clientes. El modelo identifica temas recurrentes, polaridad (positiva, negativa, neutra) y tendencias, proveyendo insights valiosos para la mejora de productos.",
+        "image": "https://placehold.co/600x400/0A0E1A/FF00FF?text=NLP+Analysis",
+        "tags": ["Python", "NLTK", "spaCy", "Scikit-Learn"],
+        "github": "https://github.com",
+        "demo": "#"
+    },
+    {
+        "title": "Segmentación de Clientes con Clustering",
+        "description_short": "Agrupación de clientes en arquetipos para campañas de marketing personalizadas.",
+        "description_long": "Uso de algoritmos de clustering no supervisado (K-Means) para segmentar la base de clientes en distintos grupos basados en su comportamiento de compra y datos demográficos. Esto permitió la creación de campañas de marketing dirigidas, aumentando la conversión en un 18%.",
+        "image": "https://placehold.co/600x400/0A0E1A/FF00FF?text=Customer+Clustering",
+        "tags": ["Python", "Pandas", "Scikit-Learn", "Matplotlib"],
+        "github": "https://github.com",
+        "demo": "#"
+    },
+    {
+        "title": "Sistema de Recomendación de Productos",
+        "description_short": "Motor de recomendación para e-commerce basado en filtrado colaborativo.",
+        "description_long": "Construcción de un sistema de recomendación que sugiere productos a los usuarios basándose en sus compras pasadas y el comportamiento de usuarios similares. El modelo, implementado con la librería Surprise, incrementó las ventas cruzadas en un 12%.",
+        "image": "https://placehold.co/600x400/0A0E1A/FF00FF?text=Recommender+System",
+        "tags": ["Python", "Surprise", "Pandas", "API"],
+        "github": "https://github.com",
+        "demo": "#"
+    }
+]
