@@ -1,52 +1,33 @@
-Cristian Farias Rubio
-Data Scientist | Ingeniero en Automatización y Control Industrial
-Con una década de experiencia optimizando procesos en el corazón de la industria, ahora aplico esa misma mentalidad de precisión y eficiencia para modelar el futuro a través de los datos. Mi objetivo es construir puentes entre la maquinaria física y la inteligencia artificial, transformando operaciones complejas en sistemas automatizados y predictivos.
+🚀 Profesional Híbrido | El Traductor entre Máquinas y Algoritmos para la Industria 4.0
+“Traduzco el lenguaje de tus PLCs en predicciones que evitan paradas, optimizan OEE y ahorran millones.” 
 
-🚀 Portafolio Interactivo en Vivo
-Este repositorio contiene el código fuente de mi portafolio personal. Te invito a explorar la versión en vivo para una experiencia completa e interactiva.
+Con +10 años en el piso de planta aplicando montaje industrial eléctrico y automatizando procesos para gigantes como CCU, Coca-Cola, BredenMaster y Aeropuerto SCL, domino el ADN industrial: PLC (Siemens, Allen Bradley, ABB), SCADA, instrumentación y lógica de control — sé cómo respiran tus máquinas.
 
-➡️ Ver mi Portafolio en Vivo
+Hoy, en mi cuarto año de Ing. en Data Science, aplico Machine Learning y Ciencia de Datos directamente sobre tus activos industriales:
 
-🛠️ Mi Arsenal Técnico (Tech Stack)
-Mi perfil combina un profundo conocimiento del hardware industrial con las herramientas más avanzadas en ciencia de datos y cloud computing.
+✅ Predigo fallas antes de que ocurran — usando datos en tiempo real de PLCs y sensores.
+✅ Construyo dashboards ejecutivos en Power BI/Tableau — para que gerentes y operarios tomen decisiones con datos, no con intuición.
+✅ Conecto OT con IT — mediante OPC UA, MQTT, KepServerEX + Azure IoT.
+✅ Automatizo reportes técnicos con IA Generativa — prompts estratégicos que generan análisis, alertas y documentación en segundos.
 
-🧠 Ciencia de Datos & Machine Learning
-Python: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+🔧 ¿Qué puedo hacer por tu empresa HOY?
+🔹 Mantenimiento Predictivo: Modelos de ML entrenados con series temporales de PLCs para reducir downtime en +30%.
+🔹 Optimización de OEE: Visualizaciones en tiempo real que identifican cuellos de botella ocultos.
+🔹 Digital Twin Lite: Gemelos digitales de procesos críticos sin necesidad de inversión millonaria.
+🔹 Automatización Inteligente: Scripts en Python que limpian, procesan y alertan sobre anomalías en tus datos industriales.
 
-Machine Learning: Mantenimiento Predictivo, Modelos de Clasificación y Regresión, Análisis de Series Temporales
+🧠 Stack Tecnológico + Industrial
+Data Science & ML: Python (Pandas, Scikit-learn, Prophet, TensorFlow Lite), SQL, Series Temporales, Regresión, Clasificación, Anomalía Detection.
+Conectividad Industrial: OPC UA, MQTT, KepServerEX, Modbus TCP, REST APIs.
+Visualización & Cloud: Power BI, Tableau, Azure IoT Hub, Azure Data Lake, Stream Analytics.
+IA Generativa: Prompt Engineering para automatización de reportes, documentación técnica y generación de insights ejecutivos.
 
-Deep Learning: TensorFlow (conocimientos básicos)
+🎯 Busco
+Proyectos o Industrias donde mi doble ADN — Tecnico en Automatizacion y Control Industrial + Científico de Datos — sea el catalizador para:
 
-Herramientas: Jupyter Notebooks, Visual Studio Code
+→ Reducir costos operacionales con modelos predictivos.
+→ Escalar la transformación digital sin perder el piso de planta.
+→ Convertir tus datos industriales en ventaja competitiva.
 
-🏭 Bases de Datos & Automatización Industrial
-Bases de Datos: SQL (PostgreSQL, MySQL), NoSQL (básico)
-
-Big Data: Comprensión de ecosistemas como Spark y Hadoop
-
-Controladores y Sistemas: PLC (Siemens, Allen-Bradley), Sistemas SCADA, HMI
-
-Protocolos: MQTT, OPC-UA
-
-☁️ Cloud & DevOps
-Plataformas Cloud: AWS (S3, Lambda, SageMaker), Google Cloud Platform (básico)
-
-Contenerización: Docker
-
-Control de Versiones: Git & GitHub
-
-📖 Sobre este Repositorio
-Este sitio fue construido desde cero para ser ligero, rápido y completamente responsive, utilizando un enfoque "vanilla" para demostrar un sólido dominio de los fundamentos del desarrollo web.
-
-Estructura: HTML5 semántico
-
-Estilos: CSS3 moderno con Flexbox y CSS Grid
-
-Interactividad: JavaScript (ES6+) para la manipulación del DOM, efectos y carga dinámica de proyectos desde un archivo JSON.
-
-💬 Hablemos
-Estoy siempre abierto a nuevos desafíos, colaboraciones y oportunidades para aplicar la ciencia de datos en problemas industriales complejos.
-
-🔗 Conecta conmigo en LinkedIn
-
-📂 Explora mis otros proyectos en GitHub
+💡 ¿Por qué soy diferente?
+No soy un data scientist que “aprendió sobre PLCs”. Soy un ingeniero de piso de planta que aprendió a hablar el lenguaje de la IA — y lo usa para salvar máquinas, no solo para graficarlas.
